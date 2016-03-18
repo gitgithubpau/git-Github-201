@@ -1,0 +1,7 @@
+* Anlatım
+  * .
+  * .
+
+* Uygulama
+  * .
+  * .
